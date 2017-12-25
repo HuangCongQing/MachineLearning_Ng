@@ -17,4 +17,4 @@ Andrew Ng Machine Learning 视频下载地址：链接: http://pan.baidu.com/s/1
 
 AGPLv3 [GNU Affero General Public License v3.0](https://github.com/HuangCongQing/MachineLearning_Ng/blob/master/LICENSE)
 
-此外，代码仅作学习vue所用，禁止私用，违者必究
+此外，代码仅作学习matlab-机器学习所用，禁止私用，违者必究
