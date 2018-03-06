@@ -12,10 +12,10 @@
 
 ### 笔记
 
-* [1吴恩达Meachine-Learing之监督学习和非监督学习](./note笔记/1吴恩达Meachine-Learing之监督学习和非监督学习.md)
-* [2吴恩达Meachine-Learing之单变量线性回归(Linear-Regression-with-One-Variable)](./note笔记/2吴恩达Meachine-Learing之单变量线性回归(Linear-Regression-with-One-Variable).md)
-* [3吴恩达Meachine-Learing之线性代数回顾-(Linear-Algebra-Review)](./note笔记/3吴恩达Meachine-Learing之线性代数回顾-(Linear-Algebra-Review).md)
-* [4吴恩达Meachine-Learing之多变量线性回归(Linear-Regression-with-Multiple-Variables)](./note笔记/4吴恩达Meachine-Learing之多变量线性回归(Linear-Regression-with-Multiple-Variables).md)
+* [1吴恩达Meachine-Learing之监督学习和非监督学习](https://www.jianshu.com/p/626feb543816)
+* [2吴恩达Meachine-Learing之单变量线性回归(Linear-Regression-with-One-Variable)](https://www.jianshu.com/p/4b614d6d2406)
+* [3吴恩达Meachine-Learing之线性代数回顾-(Linear-Algebra-Review)](https://www.jianshu.com/p/163c0c64ea34)
+* [4吴恩达Meachine-Learing之多变量线性回归(Linear-Regression-with-Multiple-Variables)](https://www.jianshu.com/p/a51f06052772)
 
 
 
