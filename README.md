@@ -5,12 +5,7 @@
 
 Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Th
 
-* ~~Andrew Ng Machine Learning 视频下载地址：链接: http://pan.baidu.com/s/1i38N91j 密码: 2bzk~~（已失效）
-
-* [机器学习笔记](./机器学习个人笔记完整版v4.3.pdf)
-
-* ~~黄海广博士写非常好的笔记：机器学习个人笔记完整版
-百度云盘链接：http://pan.baidu.com/s/1dF2asvf 密码：1ewf~~（已失效）
+* 学习机器学习，《西瓜书》讲得最系统，对于里面的推导过程有些不详细，，已经有一些热心的小伙伴开源了[《南瓜书》](https://datawhalechina.github.io/pumpkin-book/#/)，大家可以多看看
 
 ### 笔记
 
