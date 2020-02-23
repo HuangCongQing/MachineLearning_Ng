@@ -7,6 +7,8 @@ Fork或借鉴请注明出处 [@ChungKing](https://github.com/HuangCongQing) . Th
 
 * 学习机器学习，《西瓜书》讲得最系统，对于里面的推导过程有些不详细，，已经有一些热心的小伙伴开源了[《南瓜书》](https://datawhalechina.github.io/pumpkin-book/#/)，大家可以多看看
 
+#### [吴恩达老师的机器学习和深度学习课程笔记打印版](https://mp.weixin.qq.com/s/gc1_dbT7Mu4OepxbjfRYXg)
+
 ### 学习视频
 
 * [机器学习（Machine Learning）- 吴恩达（Andrew Ng）【bilibili】](https://www.bilibili.com/video/av9912938/?p=2)
