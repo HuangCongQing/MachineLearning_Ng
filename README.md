@@ -21,6 +21,21 @@ Machine Learning(机器学习)是研究计算机怎样模拟或实现人类的�
 （三）在机器学习的最佳实践（偏差/方差理论；在机器学习和人工智能创新过程）。本课程还将使用大量的案例研究，您还将学习如何运用学习算法构建智能机器人（感知，控制），文本的理解（Web搜索，反垃圾邮件），计算机视觉，医疗信息，音频，数据挖掘，和其他领域。
 
 本课程需要10周共18节课，相对以前的机器学习视频，这个视频更加清晰，而且每课都有ppt课件，推荐学习。
+
+### 实现算法
+
+* ex1-linear regression	
+* ex2-logistic regression	
+* ex3-neural network	
+* ex4-NN back propagation	
+* ex5-bias vs variance
+* ex6-SVM	
+* ex7-kmeans and PCA
+* ex8-anomaly detection and recommendation
+
+
+
+
 ### 学习视频
 
 * [机器学习（Machine Learning）- 吴恩达（Andrew Ng）【bilibili】](https://www.bilibili.com/video/av9912938/?p=2)
