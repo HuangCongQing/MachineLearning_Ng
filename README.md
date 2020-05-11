@@ -38,7 +38,7 @@ Machine Learning(机器学习)是研究计算机怎样模拟或实现人类的�
 
 ### 学习视频
 
-* [机器学习（Machine Learning）- 吴恩达（Andrew Ng）【bilibili】](https://www.bilibili.com/video/av9912938/?p=2)
+* [[中英字幕]吴恩达机器学习系列课程](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=10722758801561624673)
 
 
 ### 笔记
